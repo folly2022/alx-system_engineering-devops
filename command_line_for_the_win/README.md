@@ -19,7 +19,6 @@
 | 2. Reach the perfect cube, 27 | Complete the 9 next tasks, getting to 27 total.
 
 
-## Author :octocat:
+## Author :octocat: Atokun
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
- 
+Azeez Lawal.
